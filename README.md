@@ -1,5 +1,12 @@
 # Solar-X-Ray-Flare-Stats
 This repository contains data and results files for analysis of Solar X-Ray flare rate statistic for cycles 21 to 25 in a text file format.
+
+The data was originally obtained and reduced from the following locations:
+X-ray flares prior to 1996: ftp://ftp.ngdc.noaa.gov/STP/space-weather/solar-data/solar-features/solar-flares/x-rays/goes/xrs/
+X-ray flares from 1996 on can be found in the daily events lists at: ftp://ftp.swpc.noaa.gov/pub/warehouse/
+Sunspot regions prior to 1996: ftp://ftp.ngdc.noaa.gov/STP/space-weather/solar-data/solar-features/sunspot-regions/usaf_mwl
+Sunspot regions from 1996 on can be found in the daily sunspot region summary (SRS) files at: ftp://ftp.swpc.noaa.gov/pub/warehouse/
+
 The file descriptions are given below.
 
 flaretable.txt
