@@ -45,3 +45,5 @@ I5    Number of regions for the McIntosh class in cycle 24
 A1    Blank
 I5    Number of regions for the McIntosh class in cycle 25
 
+rateslrdata_#x-#ydata.txt
+These files contain the data used in the linear regression fits the compare cycle flare rates by sunspot class. #x and #y in the file name name designate the sunspot cycle x and y axis in the data columns in the file.
